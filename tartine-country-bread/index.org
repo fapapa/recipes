@@ -1,0 +1,327 @@
+#+TITLE: Tartine Basic Country Bread
+
+* April 8, 2020
+
+** Formulation and procedure (Using Camaldoli Starter)
+
+|-------------------+------------+--------------|
+| Ingredient        | Percentage | Quantity (g) |
+|-------------------+------------+--------------|
+| Water (80°F)      |         75 |         1139 |
+| Leaven            |         20 |          304 |
+| White Flour       |         90 |         1367 |
+| Whole Wheat Flour |         10 |          152 |
+| Salt              |        2.5 |           38 |
+|-------------------+------------+--------------|
+| *Total*           |      197.5 |         3000 |
+|-------------------+------------+--------------|
+#+TBLFM: $3=(@4 + @5) * ($2 / 100);%.0f::@4$3=(@7$3 / @7$2) * @4$2;%.0f::@5$3=(@7$3 / @7$2) * @5$2;%.0f::@7$2='(+ @2..@6);N::@7$3=3000
+
+You will need 500g of Leaven on day of dough prep to have starter for next time.
+
+*** Preparing the dough
+
+1. Several hours before you plan to make your dough, feed 100g of starter with
+   200g of warm (78°F) water, 100g of white flour and 100g of whole wheat flour.
+   Let rise for several hours at cool room temp. When it has increased in volume
+   by about 20%, it should be ready. To be certain, drop a spoonful into a bowl
+   of water; if it floats, it's ready. It should be aerated and smell creamy and
+   sweet, not vinegary.
+2. Gather ingredients (from formulation above).
+3. Weigh 1,063g of the water and pour it into a large mixing bowl. Add in the
+   304g of leaven and stir it to disperse. Add all of the flour (both white and
+   whole wheat) to the bowl and mix by hand until you don't see any bits of dry
+   flour. Let the dough rest for 25–40 minutes for autolyse.
+4. After the resting period, add the 38g of salt and remaining 76g of water.
+   Incorporate the salt by squeezing the dough through your fingers. The dough
+   will first break apart and will then re-form. Fold the dough over itself and
+   transfer to a small, clear container. Bulk fermentation has begun and should
+   take 3-4 hours, during which you will perform folds as described below.
+5. During the first two hours of bulk fermentation, give the dough one turn
+   every twenty minutes. During the third hour the dough will be aerated with
+   gas; you should turn the dough more gently to prevent pressing gas out of the
+   dough.
+
+   *To do a turn* dip one hand in water to prevent the dough from sticking to
+   you, and then grab the underside of the dough, stretch it up, and fold back
+   over the rest of the dough. Repeat two to three times so that all the dough
+   gets evenly developed. This is considered one turn.
+
+   By the end of the third hour, the dough will feel aerated and softer. A
+   well-developed dough is more cohesive and releases from the sides of the bowl
+   when you do the turns.The ridges left by the turns will hold their shape for
+   a few minutes. You will see a 20–30% increase in volume. More air bubbles
+   will form along the sides of the container. These are all signs that the
+   dough is ready to be divided and shaped into loaves. *If the dough seems to
+   be developing slowly, extend the bulk fermentation time. Watch your dough and
+   be flexible.*
+6. Use the dough spatula to pull all the dough out of the container onto an
+   unfloured work surface. Lightly flour the surface of the dough and use a
+   bench knife to cut the dough into three equal pieces. As you cut the first
+   piece, use the bench knife to flip it so that the floured side rests on the
+   work surface. Repeat for the remaining two pieces. Fold the cut side of each
+   piece of dough onto itself so that the flour on the surface of the dough is
+   sealed on the outside of the loaf. Using the bench knife and one hand, work
+   each piece of dough into a round shape. Tension builds when the dough
+   slightly anchors to the work surface while you rotate it. By the end of the
+   shaping the dough should have a taut, smooth outer surface. You want to
+   develop a strong tension in as few movements as possible—use decisive yet
+   gentle force while handling the dough. If the surface rips, you have gone too
+   far in developing tension. Don't worry if it does rip, this is just an
+   indication that you should stop shaping and let the dough relax.
+7. After this initial shaping, let all three rounds of dough rest on the work
+   surface for 20–30 minutes. This stage is called the bench rest. Make sure the
+   dough is not exposed to drafts, which will cool it too much. A draft also can
+   cause a dry skin to form on the top of the dough, compromising the final
+   shaping. You may need to lightly flour the dough and cover it with a kitchen
+   towel.
+
+   During the bench rest, each round will relax and spread into a thick pancake
+   shape. The edge around the circumference should appear fat and rounded, not
+   flat and tapered or "dripping" off the edge. If the edge is flat and the
+   dough is spreading too much, these are indications that the dough did not
+   develop enough tension during the bulk fermentation. To correct this, simply
+   shape each round a second time—which is like giving the dough an extra turn
+   in the container.
+8. To form the final loaf shapes, lightly flour the top surface of the dough
+   rounds. Slip the bench knife under each round to lift it off the work
+   surface, taking care to maintain the round shape. Flip the round so that the
+   floured side is now resting on the work surface. What was the underside is
+   now facing up.
+
+   The final shaping involves performing a series of folds—taking care as always
+   not to deflate the dough. The successive folding builds tension inside each
+   loaf so that it holds its form and rises substantially when baked.
+
+   First, working with one round at a time, fold the third of the dough closest
+   to you up and over the middle third of the round. Stretch out the dough
+   horizontally to your right and fold this right third over the center. Stretch
+   the dough to your left and fold this third over the previous fold. You are
+   now starting to get a neat package.
+
+   Stretch out the third of the dough farthest from you and fold this flap
+   towards you, over the previous folds, and anchor it in place with your
+   fingers. Then grab the dough nearest to you and wrap it up and over, while
+   rolling the whole package away from you so that the smooth underside of the
+   loaf is now the top and all the seams are on the bottom.
+
+   Cup your hands around the dough and pull it toward you, rounding it against
+   the work surface to tighten the tension and stretch the outer surface to
+   close the seam. Let the shaped loaf rest for a minute. Repeat the folding
+   with the remaining rounds.
+9. Line three baskets or medium bowls with clean kitchen towels and lightly dust
+   them with a 50/50 mixture of rice flour and wheat flour. The patina of flour
+   prevents the dough from sticking during the final rise. Using the bench
+   knife, lift each shaped loaf off the work surface and transfer it to a basked
+   or bowl so that the smooth side is down and the seam is centered and facing
+   up. The loaves will now rise in preparation for baking.
+
+   Place the dough, in the baskets or bowls, in the refrigerator for up to 12
+   hours. The cool environment slows, but does not stop, the fermentation. After
+   eight to 12 hours the dough will develop more complex and mildly acidic
+   flavors.
+
+*** Baking the loaves
+
+1.
+
+** Results
+*** Oven spring
+Oven spring was impressive and resulted in nice ears for each loaf at slash
+locations.
+
+*** Crust
+The crust was thin, crispy and a little bit chewy, with a lot of blistering.
+Hard to imagine it being any better.
+
+*** Crumb
+The crumb was quite closed, and soft/fluffy like Wonderbread. I would have
+wanted it to be more gelatinous, pearlescent, and more open with large, somewhat
+irregular holes.
+
+*** Flavor
+Aromatic and flavorful. Mildly acidic, but still just a little bit too acidic
+for my tastes.
+
+* April 17, 2020
+
+** Formulation and procedure (Using Camaldoli Starter)
+
+|-------------------+------------+--------------|
+| Ingredient        | Percentage | Quantity (g) |
+|-------------------+------------+--------------|
+| Water (80°F)      |         80 |         1975 |
+| Leaven            |         20 |          494 |
+| White Flour       |         90 |         2222 |
+| Whole Wheat Flour |         10 |          247 |
+| Salt              |        2.5 |           62 |
+|-------------------+------------+--------------|
+| *Total*           |      202.5 |         5000 |
+|-------------------+------------+--------------|
+#+TBLFM: $3=(@4 + @5) * ($2 / 100);%.0f::@4$3=(@7$3 / @7$2) * @4$2;%.0f::@5$3=(@7$3 / @7$2) * @5$2;%.0f::@7$2='(+ @2..@6);N::@7$3=5000
+
+You will need 700g of Leaven on day of dough prep to have starter for next time.
+
+*** Preparing the dough
+
+1. Several hours before you plan to make your dough, feed 140g of starter with
+   280g of warm (78°F) water, 140g of white flour and 140g of whole wheat flour.
+   Let rise for several hours at cool room temp. When it has increased in volume
+   by about 20%, it should be ready. To be certain, drop a spoonful into a bowl
+   of water; if it floats, it's ready. It should be aerated and smell creamy and
+   sweet, not vinegary.
+2. Gather ingredients (from formulation above).
+3. Weigh 1,843g of the water and pour it into a large mixing bowl. Add in the
+   494g of leaven and stir it to disperse. Add all of the flour (both white and
+   whole wheat) to the bowl and mix by hand until you don't see any bits of dry
+   flour. Let the dough rest for 25–40 minutes for autolyse.
+4. After the resting period, add the 62g of salt and remaining 132g of water.
+   Incorporate the salt by squeezing the dough through your fingers. The dough
+   will first break apart and will then re-form. Fold the dough over itself and
+   transfer to a small, clear container. Bulk fermentation has begun and should
+   take 3-4 hours, during which you will perform folds as described below.
+5. During the first two hours of bulk fermentation, give the dough one turn
+   every twenty minutes. During the third hour the dough will be aerated with
+   gas; you should turn the dough more gently to prevent pressing gas out of the
+   dough.
+
+   *To do a turn* dip one hand in water to prevent the dough from sticking to
+   you, and then grab the underside of the dough, stretch it up, and fold back
+   over the rest of the dough. Repeat two to three times so that all the dough
+   gets evenly developed. This is considered one turn.
+
+   By the end of the third hour, the dough will feel aerated and softer. A
+   well-developed dough is more cohesive and releases from the sides of the bowl
+   when you do the turns.The ridges left by the turns will hold their shape for
+   a few minutes. You will see a 20–30% increase in volume. More air bubbles
+   will form along the sides of the container. These are all signs that the
+   dough is ready to be divided and shaped into loaves. *If the dough seems to
+   be developing slowly, extend the bulk fermentation time.* *Watch your dough
+   and be flexible.*
+6. Use the dough spatula to pull all the dough out of the container onto an
+   unfloured work surface. Lightly flour the surface of the dough and use a
+   bench knife to cut the dough into three equal pieces. As you cut the first
+   piece, use the bench knife to flip it so that the floured side rests on the
+   work surface. Repeat for the remaining two pieces. Fold the cut side of each
+   piece of dough onto itself so that the flour on the surface of the dough is
+   sealed on the outside of the loaf. Using the bench knife and one hand, work
+   each piece of dough into a round shape. Tension builds when the dough
+   slightly anchors to the work surface while you rotate it. By the end of the
+   shaping the dough should have a taut, smooth outer surface. You want to
+   develop a strong tension in as few movements as possible—use decisive yet
+   gentle force while handling the dough. If the surface rips, you have gone too
+   far in developing tension. Don't worry if it does rip, this is just an
+   indication that you should stop shaping and let the dough relax.
+7. After this initial shaping, let all three rounds of dough rest on the work
+   surface for 20–30 minutes. This stage is called the bench rest. Make sure the
+   dough is not exposed to drafts, which will cool it too much. A draft also can
+   cause a dry skin to form on the top of the dough, compromising the final
+   shaping. You may need to lightly flour the dough and cover it with a kitchen
+   towel.
+
+   During the bench rest, each round will relax and spread into a thick pancake
+   shape. The edge around the circumference should appear fat and rounded, not
+   flat and tapered or "dripping" off the edge. If the edge is flat and the
+   dough is spreading too much, these are indications that the dough did not
+   develop enough tension during the bulk fermentation. To correct this, simply
+   shape each round a second time—which is like giving the dough an extra turn
+   in the container.
+8. To form the final loaf shapes, lightly flour the top surface of the dough
+   rounds. Slip the bench knife under each round to lift it off the work
+   surface, taking care to maintain the round shape. Flip the round so that the
+   floured side is now resting on the work surface. What was the underside is
+   now facing up.
+
+   The final shaping involves performing a series of folds—taking care as always
+   not to deflate the dough. The successive folding builds tension inside each
+   loaf so that it holds its form and rises substantially when baked.
+
+   First, working with one round at a time, fold the third of the dough closest
+   to you up and over the middle third of the round. Stretch out the dough
+   horizontally to your right and fold this right third over the center. Stretch
+   the dough to your left and fold this third over the previous fold. You are
+   now starting to get a neat package.
+
+   Stretch out the third of the dough farthest from you and fold this flap
+   towards you, over the previous folds, and anchor it in place with your
+   fingers. Then grab the dough nearest to you and wrap it up and over, while
+   rolling the whole package away from you so that the smooth underside of the
+   loaf is now the top and all the seams are on the bottom.
+
+   Cup your hands around the dough and pull it toward you, rounding it against
+   the work surface to tighten the tension and stretch the outer surface to
+   close the seam. Let the shaped loaf rest for a minute. Repeat the folding
+   with the remaining rounds.
+9. Line three baskets or medium bowls with clean kitchen towels and lightly dust
+   them with a 50/50 mixture of rice flour and wheat flour. The patina of flour
+   prevents the dough from sticking during the final rise. Using the bench
+   knife, lift each shaped loaf off the work surface and transfer it to a basked
+   or bowl so that the smooth side is down and the seam is centered and facing
+   up. The loaves will now rise in preparation for baking.
+
+   Place the dough, in the baskets or bowls, in the refrigerator for up to 12
+   hours. The cool environment slows, but does not stop, the fermentation. After
+   eight to 12 hours the dough will develop more complex and mildly acidic
+   flavors.
+
+*** Baking the loaves
+
+1. Get your oven as hot as it gets—at least 500°F—with a dutch oven or
+   combo-cooker pre-heating in it for at least 20 minutes.
+2. In the meantime, gather your tools: oven mitts, rice flour, and razor blade
+   for scoring.
+3. Dust the surface of one of the loaves in the basket with rice flour. When the
+   oven and combo-cooker/dutch oven are thoroughly heated, carefully pull out
+   the lower portion of the pan and place it on the stove. Leave the upper part
+   in the oven.
+
+   Carefully inverting the basket or bowl, turn the dough into the hot pan. If
+   the dough sticks to the towel (if used), use more rice flour next time.
+4. Score the loaf. The angle, quantity and patter of the scores all affect how
+   the loaf expands in the oven and determin the final appearance of the loaf.
+   To promote "ears," make shallow cuts at a very low angle (almost horizontal)
+   to the dough.
+5. Return the vessel containing the loaf back to the oven and cover with the
+   upper portion. Immediately reduce the oven temperature to 450°F. Bake the
+   loaf for 20 minutes.
+6. After 20 minutes, remove the top portion of the pan. Continue to bake the
+   loaf until the crust is deeply caramelized, 20–25 minutes. If you want a
+   crackling crust that stays crisp, it is important to bake your loaf out
+   strong—until it reaches a burnished, golden-brown color.
+7. Remove the pan from the oven and transfer the loaf to a rack to cool. The
+   loaf will feel light in the hand, which tells you that the right amount of
+   water has been cooked out. When tapped on the bottom, the loaf will sound
+   hollow.
+
+   To bake the subsequent loaves, bring the oven back up to maximum heat, and
+   return the /cleaned/ pan's upper and lower portions to the oven for 10
+   minutes. Follow steps 3–7 again.
+
+** Results
+
+I somehow forgot to do the final shaping of the dough; only the pre-shaping got
+done, and after the bench rest I put the loaves right into the bowls. The loaves
+ideally would have sprung /up/ more than /out/; this is probably due to the lack
+of final shaping. I also did not see the /ears/ develop as much as I would have
+liked; this too was probably due to lack of final shaping which would have
+created extra tension, which promotes /ears/.
+
+Notwithstanding, the loaves were excellent. The crumb in particular was much
+more open and pearlescent, likely owing to the increased hydration. The flavor
+very close to the previous batch, even though this batch was not refrigerated.
+The loaves had to proof for a very long time to be ready to bake (and they
+probably should have gone for longer).
+
+[[./images/apr-17-2020_crust.jpeg]]
+[[./images/apr-17-2020_crumb.jpeg]]
+
+** Takeaways
+
++ The final rise time is unpredictable; Next time I should aim to have the
+  loaves ready for final rising before bed time; Then they can rise overnight
+  and be baked the next day when they have properly risen
++ Follow the instructions /to the letter/ to ensure not missing any steps
++ Try to figure out how to set up warm proofing conditions for the final rise
++ Out of necessity, I let the dough bulk-rise a lot longer this time; I believe
+  that helped with the extensibility of the dough during dividing/initial
+  shaping; to be repeated
