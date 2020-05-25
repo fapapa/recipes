@@ -1,0 +1,108 @@
+#+TITLE: Tartine Brioche
+
+* May 22, 2020
+
+** Formulation
+
+#+CAPTION: Poolish Formula
+| Ingredient   | Percent | Weight(g) |
+|--------------+---------+-----------|
+| AP Flour     |     100 |      48.3 |
+| Water (75°F) |     100 |      48.3 |
+| ADY          |       3 |       1.4 |
+|--------------+---------+-----------|
+| Total        |     203 |      98.0 |
+#+TBLFM: $3=@2 * ($2 / 100);%.1f::@2$3=(@5 / @5$2) * 100;%.1f::@5$2='(+ @2..@4);N::@5$3=98;%.1f
+
+#+CAPTION: Leaven Formula
+| Ingredient     | Percent | Weight(g) |
+|----------------+---------+-----------|
+| AP Flour       |     100 |      83.3 |
+| Water (80°F)   |     100 |      83.3 |
+| Mature Starter |      10 |       8.3 |
+|----------------+---------+-----------|
+| Total          |     210 |     175.0 |
+#+TBLFM: $3=@2 * ($2 / 100);%.1f::@2$3=(@5 / @5$2) * 100;%.1f::@5$2='(+ @2..@4);N::@5$3=175;%.1f
+
+#+CAPTION: Dough Formula
+| Ingredient      | Percent | Weight(g) |
+|-----------------+---------+-----------|
+| Bread Flour     |     100 |       264 |
+| Salt            |     2.5 |         7 |
+| Sugar           |      12 |        32 |
+| ADY             |       1 |         3 |
+| Eggs            |      50 |       140 |
+| Whole Milk      |      24 |        63 |
+| Leaven          |      30 |        79 |
+| Poolish         |      40 |       106 |
+| Unsalted Butter |      45 |       119 |
+|-----------------+---------+-----------|
+| Total           |   304.5 |       813 |
+
+** Procedure
+To make the poolish, mix the flour, water and yeast. Let stand overnight in the
+refrigerator.
+
+To make the leaven, place the mature starter in a bowl and feed with flour and
+water. Cover with a kitchen towel and let rise overnight at a cool room
+temperature. This is your leaven.
+
+The poolish and the leaven are ready when they pass the float test.
+
+About 30 minutes before you are ready to mix the dough, remove the butter from
+the refrigerator and let soften at room temperature until it is pliable but
+still cool.
+
+To mix the dough, attach a dough hook to a stand mixer. Place the flour, salt,
+sugar and yeast in the mixing bowl. Add the eggs, milk, leaven and poolish and
+mix on low speed until combined, 3 to 5 minutes; scrape down the mixer as
+needed. Let the dough rest in the mixer for 15 to 20 minutes.
+
+Then mix it on medium to high speed until it releases from the sides of the
+bowl, 6 to 8 minutes. This indicates that the dough is sufficiently developed to
+begin incorporating the butter. Make sure the butter is soft and pliable, but
+still cool and not melted.
+
+Cut the butter into ½-inch pieces. With the mixer on medium speed, add the
+pieces of butter one at a time to the middle of the bowl, where the hook meets
+the dough. Continue until the butter is incorporated. The dough will be silky
+smooth and homogeneous, with no visible butter. Cover with plastic wrap and set
+in a cool place (70°F) for 2 hours. During the first hour, give the dough 2
+turns. During the second hour, give the dough 1 turn.
+
+Just before shaping the dough, coat the brioche mold with butter. Use the dough
+spatula, pull the dough from the bowl onto an unfloured work surface. Shape the
+dough into a loaf using the same technique as for the country bread loaf.
+
+Place the shaped dough in the mold and let it rise in a draft-free place at a
+warm room temperature (75°F) for 1½ to 2 hours.
+
+Preheat the oven to 450°F.
+
+Brush the top of each loaf with egg wash. Bake until the loaves are
+golden-brown, 35–40 minutes. Un-mold and let cool on a wire rack. The loaf
+should feel light in the hand and have the aroma of browned butter.
+
+** Results and notes
+:PROPERTIES:
+:ID:       5422b1ef-e9d6-49b2-af94-b8bbf5c7fad0
+:END:
+
++ I forgot to add the milk; realized it after mixing but before first rest.
+  Added the milk and mixed again. It took a while for it to come together.
++ 1 medium egg ended up being ~47g without the shell, which ended up being a
+  total of 8g more than I had estimated.
++ Since our oven typically runs cool, I set the oven to 460°F, but it got very
+  dark before it was cooked through. This was probably a mistake and I should
+  have followed the directions.
++ A check of the internal temperature showed > 190°F after 35 minutes
++ Used ~100g of dough for a bun, which would have left ~700g for the loaf; it
+  would have been nice just a little bigger, so probably use all 800g for the
+  loaf next time.
++ Crust was a little too dark
++ Crumb was perfect
++ Taste was good
+
+[[./images/IMG_2244.jpeg]]
+[[./images/IMG_2245.jpeg]]
+[[./images/IMG_2246.mov]]
